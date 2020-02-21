@@ -2,13 +2,13 @@
 
 ## Exercise I
 
-a)
+a) O(n) - we are asking individually, starting with n^2.
 
 
-b)
+b) O(n^2) - checks once, then continues to check the same.
 
 
-c)
+c) O(n) - same as above.
 
 ## Exercise II
 
